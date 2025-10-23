@@ -1,5 +1,5 @@
 
-content = """# 📌 YOLOv8 Video Object Detection
+# 📌 YOLOv8 Video Object Detection
 
 This project uses the **Ultralytics YOLOv8 model** to perform real-time object detection on a video file. It processes the video frame-by-frame and exports a new output video with bounding boxes and labels for every detected object.
 
