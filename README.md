@@ -20,3 +20,6 @@ Install the required libraries before running the script:
 
 ```sh
 pip install ultralytics opencv-python tqdm
+
+pip install ultralytics opencv-python tqdm
+
